@@ -1,3 +1,7 @@
+<h1>HW2</h1>
+      
+ ```swift
+
 import SwiftUI
 var p=["✂️","🪨","🖐🏻"]
 struct ContentView: View {
@@ -27,3 +31,8 @@ struct ContentView: View {
                 .opacity(0.4)
     }
 }
+
+
+ ```
+
+[![](https://i.ytimg.com/vi/NldINzJ_V-E/maxresdefault.jpg)](https://youtu.be/NldINzJ_V-E?si=WC4PYQhViGyx0_QX "")
