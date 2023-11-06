@@ -77,4 +77,5 @@ struct bottomView: View {
     }
 }
  ```
-https://github.com/yee5400/yzu-swiftUI-1093312/blob/d8ff8d809f2b3e1d0d97955156ee97250af1e445/HW3_pic.jpg
+<img width="40%" src="https://github.com/yee5400/yzu-swiftUI-1093312/blob/d8ff8d809f2b3e1d0d97955156ee97250af1e445/HW3_pic.jpg">
+
