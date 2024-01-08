@@ -1,3 +1,7 @@
+<h1>HW4_CourseListlView</h1>
+      
+ ```swift
+
 import SwiftUI
 
 struct Course:Identifiable{
@@ -87,3 +91,4 @@ struct CourseListlView:View{
         }
     }
 }
+```
