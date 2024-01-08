@@ -1,4 +1,6 @@
-
+<h1>HW2</h1>
+      
+ ```swift
 import SwiftUI
 
 struct TermAndDescription: Identifiable{
@@ -39,3 +41,7 @@ struct CardView: View{
         }
     }
 }
+
+
+      
+ ```
